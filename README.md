@@ -24,7 +24,7 @@ Most of my work starts with a question from someone who isn't a data person — 
 
 ```python
 >>> andrew.info()
-now         = "Data Scientist 
+now         = "Data Scientist"
 degree      = "MS Electrical & Computer Engineering, Carnegie Mellon University"
 domains     = ["Public health", "Education", "Government data"]
 research    = "medical AI that works on the small, local datasets Africa actually has"
